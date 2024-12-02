@@ -1,5 +1,6 @@
 {
     "name": "[MakeCode] MKE-M07 LCD1602 I2C Module",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
